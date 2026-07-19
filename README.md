@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abhaymishra?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=abhaymishra&label=Profile+Views&color=green&style=for-the-badge" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"> Followers
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"> GitHub
 </p>
 
 ---
