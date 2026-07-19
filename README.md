@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/github/followers/mishraabhay83?style=flat-square&logo=github" alt="Followers"
+  <img src="https://img.shields.io/github/followers/mishraabhay83?style=flat-square&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=mishraabhay83&label=Profile+Views&color=green&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 ## 🚀 About Me
