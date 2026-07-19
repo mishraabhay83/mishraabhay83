@@ -2,8 +2,7 @@
 <h3 align="center">Full-Stack Web Developer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=<p align="center">
-font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=HTML5+•+CSS3+•+JavaScript+⚡;PHP+•+MySQL+🌐;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=HTML5+•+CSS3+•+JavaScript+⚡;PHP+•+MySQL+🌐;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
