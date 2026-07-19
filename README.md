@@ -4,8 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=HTML5+•+CSS3+•+JavaScript+⚡;PHP+•+MySQL+🌐;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 </p>
-![Followers](https://img.shields.io/github/followers/mishraabhay83?style=flat-square&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=mishraabhay83&label=Profile+Views&color=green&style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mishraabhay83?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mishraabhay83&label=Profile+Views&color=green&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ## 🚀 About Me
