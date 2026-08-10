@@ -26,10 +26,14 @@
 - Business Intelligence
 - Dashboard Development
 
+---
+
 **🌱 Currently Learning**
 - Advanced SQL
 - Power BI
 - Statistics
+
+---
 
 **📧 Email**
 mishraabhay14141@gmail.com
@@ -44,6 +48,8 @@ mishraabhay14141@gmail.com
   <img src="https://skillicons.dev/icons?i=python,mysql,r" />
 </p>
 
+---
+
 **Data Analysis**
 - Pandas
 - NumPy
@@ -52,11 +58,15 @@ mishraabhay14141@gmail.com
 - Plotly
 - Scikit-learn
 
+---
+
 **Business Intelligence**
 - Power BI
 - Tableau
 - IBM Cognos Analytics
 - Microsoft Excel
+
+---
 
 **Concepts**
 - Exploratory Data Analysis (EDA)
@@ -67,6 +77,8 @@ mishraabhay14141@gmail.com
 - Statistical Analysis
 - Dashboard Design
 - Business Intelligence
+
+---
 
 **Tools**
 
