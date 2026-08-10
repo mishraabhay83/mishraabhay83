@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">Data Analyst 📊</h3>
 
 <p align="center">
@@ -15,16 +15,16 @@ h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 
 ### 🚀 About Me
 
-- 🌐 **What I Do:** I am an aspiring Data Analyst, IBM Certified, focused on turning raw data into clear, actionable insights.
-- 📊 **Expertise:** Skilled in data cleaning, exploratory data analysis, and building dashboards using Excel, SQL, and Python.
-- 🎯 **Current Focus:** Strengthening my skills in Power BI, advanced SQL, and Python-based data visualization.
-- 🎓 **B.Tech Computer Science Engineering Student**
+- 🌐 *What I Do:* I am an aspiring Data Analyst, IBM Certified, focused on turning raw data into clear, actionable insights.
+- 📊 *Expertise:* Skilled in data cleaning, exploratory data analysis, and building dashboards using Excel, SQL, and Python.
+- 🎯 *Current Focus:* Strengthening my skills in Power BI, advanced SQL, and Python-based data visualization.
+- 🎓 *B.Tech Computer Science Engineering Student*
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**🌐 Languages**
+*🌐 Languages*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,7 +32,7 @@ h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**📊 Data Analysis**
+*📊 Data Analysis*
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -40,7 +40,7 @@ h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-**📈 Business Intelligence**
+*📈 Business Intelligence*
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -48,7 +48,7 @@ h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-**🧰 Tools**
+*🧰 Tools*
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -61,7 +61,7 @@ h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 
 ### 💡 Concepts I Work With
 
-`Exploratory Data Analysis (EDA)` `Data Cleaning` `Data Wrangling` `KPI Development` `Statistical Analysis` `Dashboard Design` `Business Intelligence` `Predictive Analytics`
+Exploratory Data Analysis (EDA) Data Cleaning Data Wrangling KPI Development Statistical Analysis Dashboard Design Business Intelligence Predictive Analytics
 
 ---
 
