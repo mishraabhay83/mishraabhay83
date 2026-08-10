@@ -1,86 +1,107 @@
-<h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
-<h3 align="center">Full-Stack Web Developer 💻</h3>
+h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
+<h3 align="center">Data Analyst 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=HTML5+•+CSS3+•+JavaScript+⚡;PHP+•+MySQL+🌐;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
+  <b><span style="color:#E15A3B">Turning Raw Data into Real Insights</span></b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mishraabhay83?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=mishraabhay83&label=Profile+Views&color=green&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/mishraabhay83" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rishabhsingh770&label=PROFILE+VIEWS&color=8e44ad&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Rishabhsingh770?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers"/>
+  <a href="https://linkedin.com/in/mishrapranjal23"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
-* 🌐 **What I Do:** I am a passionate Full-Stack Web Developer focused on building clean, user-friendly, and functional web applications.
-* 💻 **Expertise:** Specialized in handling frontend interactivity and optimizing backend relational databases.
-* 🛠️ **Current Focus:** Creating seamless user journeys, dynamic multi-step forms, and clean routing systems.
+### 🚀 About Me
+
+- 🌐 **What I Do:** I am an aspiring Data Analyst, IBM Certified, focused on turning raw data into clear, actionable insights.
+- 📊 **Expertise:** Skilled in data cleaning, exploratory data analysis, and building dashboards using Excel, SQL, and Python.
+- 🎯 **Current Focus:** Strengthening my skills in Power BI, advanced SQL, and Python-based data visualization.
+- 🎓 **B.Tech Computer Science Engineering Student**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-### 🌐 Languages & Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+**🌐 Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🐘 Backend & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+**📊 Data Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Environments
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+**📈 Business Intelligence**
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
----
+**🧰 Tools**
 
-## 🧠 Core Concepts & Methodologies
-* 💻 **Web Architecture:** Client-Server Architecture & RESTful practices.
-* 🛢️ **Database Management:** Relational Database Design, CRUD operations, and Query Optimization.
-* ⚡ **Development:** UI/UX Responsiveness, State Management, and Form Validation.
-
----
-
-## 📂 Featured Projects
-
-### 🚘 Dynamic Car Rental Booking Website
-An end-to-end full-stack application designed to make online vehicle reservations seamless and responsive.
-* 🖥️ **Frontend Architecture:** Interactive UI crafted using **HTML5, CSS3, and JavaScript** for high engagement.
-* ⚙️ **Backend Logic:** Developed dynamic server-side routing and form processing using **PHP**.
-* 🛢️ **Database Design:** Created a relational **MySQL** structure to handle live city routes and filter availability.
-* 🚀 **Key Features Implemented:** Multi-step booking flow, real-time route query handling, and safe data processing.
-
----
-
-## 🏆 Certifications & Learning
-* 🎓 Full-Stack Web Development Foundation
-* 🗃️ Relational Database Management with MySQL
-* 🌐 Advanced JavaScript & Backend Integration Architecture
-
----
-
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/mishraabhay83" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="mailto:mishraabhay14141@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a> &nbsp;
-  <a href="https://github.com/mishraabhay83" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
-<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories. </p>
+
+### 💡 Concepts I Work With
+
+`Exploratory Data Analysis (EDA)` `Data Cleaning` `Data Wrangling` `KPI Development` `Statistical Analysis` `Dashboard Design` `Business Intelligence` `Predictive Analytics`
+
+---
+
+### 🌱 Currently Learning
+
+Advanced SQL • Power BI • Statistics • Data Engineering
+
+---
+
+### 🏆 Certifications
+
+- ✅ IBM Data Analyst Professional Certificate
+- ✅ Data Visualization and Dashboards with Excel and Cognos
+- ✅ Python for Data Science, AI & Development
+- ✅ Databases and SQL for Data Science with Python
+- ✅ Data Analysis with Python
+- ✅ Data Visualization with Python
+- ✅ IBM Data Analyst Capstone Project
+- ✅ Generative AI: Enhance your Data Analytics Career
+
+---
+
+### 📌 Featured Projects
+
+> 🚧 Currently building hands-on data analysis projects using Python, SQL, and Power BI. Coming soon!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabhsingh770&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhsingh770&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mishrapranjal23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
