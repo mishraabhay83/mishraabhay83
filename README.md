@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
 
 <p align="center">
-  Data Analyst | IBM Certified | Python • SQL • Power BI • Excel • Tableau
+  Data Analyst | IBM Certified | Python • Power Bi • SQL • Tableau • Excel
 </p>
 
 <p align="center">
@@ -26,14 +26,10 @@
 - Business Intelligence
 - Dashboard Development
 
----
-
 **🌱 Currently Learning**
 - Advanced SQL
 - Power BI
 - Statistics
-
----
 
 **📧 Email**
 mishraabhay14141@gmail.com
