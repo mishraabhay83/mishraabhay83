@@ -18,8 +18,8 @@
 
 ### 👤 About Me
 
-- 🎓 BCA (Bachelor of Computer Applications) Student
-- 📊 Aspiring Data Analyst passionate about solving business problems using data
+🎓 BCA (Bachelor of Computer Applications) Student
+ 📊 Aspiring Data Analyst passionate about solving business problems using data
 
 **💡 Interested in**
 - Data Analytics
